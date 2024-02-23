@@ -1,2 +1,2 @@
 
-<img src="PIC/NANO-Bot.png"   height="300">
+<img src="pic/NANO-Bot.png"   height="300">
